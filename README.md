@@ -1,1 +1,1 @@
-# WebSync
+simple
